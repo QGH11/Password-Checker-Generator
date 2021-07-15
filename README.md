@@ -9,7 +9,8 @@ Project in src fold, main.cpp file
 		&ensp;2. Check user password strength, if not strong enough,<br />
 		&ensp;options of auto generating password is avaible<br />
 		&ensp;3. Run until user stop the program<br />
+		<br />
     ** allow/check for invalid user input!!!<br />
-    ** Using Visual Studio C++
+    ** Using Visual Studio C++ UI
 */
 
